@@ -1,3 +1,6 @@
+# SQL Solution
+
+
 select 
 
 user_id,
